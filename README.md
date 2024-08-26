@@ -59,6 +59,7 @@ Case 1:
   2.	Enter an invalid username.
   3.	Enter an valid password.
   4.	Click the "Login" button.
+     
 Case 2:
 **Steps to Reproduce:**
   1.	Go to www.website.com/login
@@ -66,11 +67,13 @@ Case 2:
   3.	Enter an invalid password.
   4.	Click the "Login" button.
 Case 3:
+
 **Steps to Reproduce:**:
   1.	Go to www.website.com/login
   2.	Enter an invalid username.
   3.	Enter an invalid password.
   4.	Click the "Login" button.
+     
 **Expected result:** The system displays an error message indicating that the username or password is incorrect, and the user is not logged in.
 
 
