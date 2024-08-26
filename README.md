@@ -53,19 +53,19 @@ Below are some Test Case samples that I wrote while working on previous projects
 ----------------------------------------------------
 ## Test Cases for Invalid Login
 **Description:** Verify login with invalid credentials
-**Case 1:**
+Case 1:
 **Steps to Reproduce:**
   1.	Go to www.website.com/login
   2.	Enter an invalid username.
   3.	Enter an valid password.
   4.	Click the "Login" button.
-**Case 2:**
+Case 2:
 **Steps to Reproduce:**
   1.	Go to www.website.com/login
   2.	Enter an valid username.
   3.	Enter an invalid password.
   4.	Click the "Login" button.
-**Case 3:**
+Case 3:
 **Steps to Reproduce:**:
   1.	Go to www.website.com/login
   2.	Enter an invalid username.
