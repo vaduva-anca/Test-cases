@@ -1,6 +1,6 @@
 #Test Case Samples
-
 Below are some Test Case samples that I wrote while working on previous projects.
+
 ----------------------------------------------------
 ## Test Case for Login
 **Description:** Check if the login works when a person uses a correct user/pass.
